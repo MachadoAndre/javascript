@@ -1,5 +1,5 @@
 /*
     * Boas-Vindas
     * Cronograma
-    * 
+    * Navegadores
 */
